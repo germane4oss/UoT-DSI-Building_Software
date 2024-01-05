@@ -16,11 +16,14 @@ German Silva
 gsilva2k5@gmail.com
 
 ## Version History
+* 0.2
+   * Lesson 2 File
+      * API_Call_lesson2.ipynb     
 
 * 0.1
     * Lesson 1  files
-      * greet_lesson1.py
-      * API_Call_lesson1.py
+      * greet_lesson1.ipynb
+      * API_Call_lesson1.ipynb
 
 ## License
 
