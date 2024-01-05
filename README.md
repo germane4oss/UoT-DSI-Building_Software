@@ -18,7 +18,9 @@ gsilva2k5@gmail.com
 ## Version History
 
 * 0.1
-    * Initial Release
+    * Lesson 1  files
+      * greet_lesson1.py
+      * API_Call_lesson1.py
 
 ## License
 
